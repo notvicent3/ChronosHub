@@ -72,7 +72,7 @@ Join the ChronosHub crew by contributing code, ideas, or feedback. Read our [CON
 
 ## 📜 License & Regulations
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for interstellar regulations.
+This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE.md](LICENSE) file for interstellar regulations.
 
 ## 📡 Contact the Command Center
 
