@@ -1,6 +1,6 @@
 # ChronosHub: Time Tokenization Platform 🕰️
 
-![ChronosHub Banner](banner.png)
+![ChronosHub Banner]([banner.png](https://cdn.leonardo.ai/users/85b8cb83-3466-42d9-bdab-f4599fd0c092/generations/802b3d23-3bc0-4468-adaa-c192f2a687f6/SDXL_09_Chronos_1.jpg))
 
 [![Built with Polygon](https://img.shields.io/badge/Built%20with-Polygon-7C5295)](https://polygon.technology/)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Enabled-FF6F00)](https://www.tensorflow.org/)
