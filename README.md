@@ -80,7 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Twitter: [@kerberosai](https://twitter.com/kerberosai)
 - LinkedIn: [Vicent3](https://linkedin.com/in/vicent3)
 
----
 
 🚀 Join the ChronosHub universe and be part of a revolution that transcends time and space!
-```
+
